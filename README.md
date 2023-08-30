@@ -13,7 +13,7 @@ Esta es una sencilla aplicación web de Lista de Tareas construida con ReactJS, 
 ## Comenzar
 
 1. Clona este repositorio en tu máquina local.
-2. Navega al directorio del proyecto: `cd todo-list-app`.
+2. Navega al directorio del proyecto: `cd todo-app`.
 3. Instala las dependencias necesarias: `npm install`.
 4. Inicia el servidor de desarrollo: `npm start`.
 
