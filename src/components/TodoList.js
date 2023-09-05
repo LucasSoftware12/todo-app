@@ -103,7 +103,7 @@ const TodoList = () => {
         <div
           style={{
             textAlign: "right",
-            paddingLeft: "25px", // Ajusta este valor según sea necesario
+            paddingLeft: "25px",
           }}
         >
           {params.value ? (
